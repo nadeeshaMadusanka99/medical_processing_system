@@ -1,0 +1,83 @@
+{
+  "personal_details": [
+    {
+      "id": 1,
+      "name": "nadeesha",
+      "age": "24",
+      "nic_no": "ODE5ODE5NTU=",
+      "tel": "NTE5NTk1MTI1"
+    },
+    {
+      "id": 2,
+      "name": "Doctor Nadeesha",
+      "age": "50",
+      "nic_no": "MTU2MTY1NDY1Vg==",
+      "tel": "MDgxNTQ4NzY5MA=="
+    },
+    {
+      "id": 3,
+      "name": "Receptionist Nadeesha",
+      "age": "40",
+      "nic_no": "MTY1MTU2MTY2Vg==",
+      "tel": "MDcxNjU0NjU0OA=="
+    },
+    {
+      "id": 4,
+      "name": "Patient Nadeesha",
+      "age": "13",
+      "nic_no": "MTk4MTY1NjFW",
+      "tel": "MDcxNDg0ODY1MA=="
+    }
+  ],
+  "sickness_details": [
+    {
+      "id": "4",
+      "sickness": "COVID-19 symptoms",
+      "date": "2023-08-25 09:15:00"
+    },
+    {
+      "id": "4",
+      "sickness": "Severe cough and flu",
+      "date": "2023-08-26 14:30:00"
+    },
+    {
+      "id": "4",
+      "sickness": "Headache and fatigue",
+      "date": "2023-08-27 10:45:00"
+    }
+  ],
+  "drug_presc": [
+    {
+      "id": "4",
+      "drug_presc": "Prescribed antibiotics and bed rest",
+      "date": "2023-08-25 09:45:00"
+    },
+    {
+      "id": "4",
+      "drug_presc": "Recommended cough syrup and paracetamol",
+      "date": "2023-08-26 15:00:00"
+    },
+    {
+      "id": "4",
+      "drug_presc": "Medication for fever and flu",
+      "date": "2023-08-27 11:00:00"
+    }
+  ],
+  "labtest_presc": [
+    {
+      "id": "4",
+      "labtest_presc": "COVID-19 PCR test required",
+      "date": "2023-08-25 10:00:00"
+    },
+    {
+      "id": "4",
+      "labtest_presc": "Complete blood count (CBC) test needed",
+      "date": "2023-08-26 16:30:00"
+    },
+    {
+      "id": "4",
+      "labtest_presc": "Dengue fever test recommended",
+      "date": "2023-08-27 12:15:00"
+    }
+  ]
+}
